@@ -1,5 +1,6 @@
 #Just Logo for my selfhosted media server
 The CSS line is 
+#
 .adminDrawerLogo img {
     display: block;
     width: 100px; /* Adjust size as needed */
